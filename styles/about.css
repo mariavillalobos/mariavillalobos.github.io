@@ -1,0 +1,63 @@
+main{
+    text-align: center;
+    color:white;
+    background-color: black;
+}
+
+.flexContainer {
+     color:black;
+    display: flex;
+    align-content: center;
+}
+
+.flexSpaceAround {
+    color:black;
+    justify-content: space-around;
+    
+}
+
+.subContainer {
+    width: 80%;
+    margin-left: 20px;
+}
+
+.col {
+    width: 25%;
+    height: 70%;
+    border: 1px solid #777777;
+    border-radius: 8px;
+    background: gray;
+    padding: 40px;
+    padding-top: 50px;
+    font-size: large;
+     display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.logo{
+    padding-top:15px;
+    width: 100%;
+    display:block;
+    margin:auto;
+}
+
+.libro{
+     padding-top:58px;
+    width: 177px;
+    height: 248px;
+    display:block;
+    margin:auto;
+}
+
+.gru{
+    padding-top:30px;
+    width: 100%;
+  display:block;
+    margin:auto;
+    
+}
+
+h1{
+	
+}
